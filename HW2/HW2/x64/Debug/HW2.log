@@ -1,0 +1,5 @@
+﻿  hw2.cpp
+d:\programs\algorithm\hw2\hw2\hw2.cpp(36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\programs\algorithm\hw2\hw2\hw2.cpp(61): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  HW2.vcxproj -> D:\programs\ALGORITHM\HW2\x64\Debug\HW2.exe
+  HW2.vcxproj -> D:\programs\ALGORITHM\HW2\x64\Debug\HW2.pdb (Partial PDB)
