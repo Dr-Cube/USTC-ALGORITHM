@@ -1,4 +1,4 @@
 ﻿  hw5.cpp
-d:\programs\algorithm\ustc-algorithm\hw5.cpp(24): warning C4101: “j”: 未引用的局部变量
+d:\programs\algorithm\ustc-algorithm\hw5.cpp(25): warning C4101: “j”: 未引用的局部变量
   HW5.vcxproj -> D:\programs\ALGORITHM\USTC-ALGORITHM\HW5\Debug\HW5.exe
   HW5.vcxproj -> D:\programs\ALGORITHM\USTC-ALGORITHM\HW5\Debug\HW5.pdb (Partial PDB)
